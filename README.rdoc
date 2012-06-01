@@ -1,6 +1,6 @@
 = smashing
 
-Description goes here.
+A super keen but super what-you-need security log/event/stuff management tool. Will be abstract. Will be modular. Will be fast/scalable/small/Internet Scale(tm)/Hipster proof/obsol33t. Will be a long time coming.
 
 == Contributing to smashing
  
