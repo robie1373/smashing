@@ -1,1 +1,5 @@
-puts "This is smashing. I should really design SMASHING a little bit so I can start to write it."
+require "smashing/version"
+
+module Smashing
+  # Your code goes here...
+end
