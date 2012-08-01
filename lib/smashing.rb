@@ -1,0 +1,1 @@
+puts "This is smashing. I should really design SMASHING a little bit so I can start to write it."
